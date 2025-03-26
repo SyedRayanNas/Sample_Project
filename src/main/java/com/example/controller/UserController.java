@@ -21,6 +21,9 @@ public class UserController {
 	@GetMapping("/getDetails")
 	public Object getUserDetails() {
 		
+//		return userService.getUserDetails() ;
+		
+		
 		return userService.getUserDetails() ;
 		
 		
