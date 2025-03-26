@@ -10,7 +10,7 @@ public class UserServiceImpl implements UserService{
 	@Override
 	public Object getUserDetails() {
 		// TODO Auto-generated method stub
-		return "Welcome Syed This is Jenkins Auto Deployment Project Successfully Commited";
+		return "Welcome Syed This is Jenkins Auto Deployment Project Successfully Commited...";
 	}
 
 }
